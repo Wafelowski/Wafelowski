@@ -6,16 +6,22 @@
 <br>
 <a href="https://polishemergencyv.com">PolishEmergencyV.com</a></h2>
 
-```javascript
-if (SCP: Secret Laboratory) {
-  return "Developer@ThemePark + Tech Assistance@SCP:SL"
-}
+```python
+if SCP: Secret Laboratory:
+  return "Developer@ThemePark"
 
-if (GTA: V) {
+if Grand Theft Auto V:
   const PolishEmergencyV = "Vehicles, clothing, props of Polish emergency services"
   return "Administrator@PolishEmergencyV"
-}
+  
+if Blender:
+  return "300h@MakingFunnyShapes"
+  
+programming = [Python, Javascript, HTML, CSS, PHP, CSharp]
+for lang in programming:
+  memory.learn(lang)
 
-if (Life){
-  return "Complete idiot"
-}
+if Life:
+  Life = False
+  return "Complete idiot and liar"
+```
