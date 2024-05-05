@@ -8,20 +8,20 @@
 
 ```python
 if SCP: Secret Laboratory:
-  return "Developer@ThemePark"
+  return "ex DeveloperSysAdmin@ThemePark & TechSupport@NorthwoodStudios"
 
 if Grand Theft Auto V:
-  const PolishEmergencyV = "Vehicles, clothing, props of Polish emergency services"
+  PolishEmergencyV = "Vehicles, clothing, props of Polish emergency services in Grand Theft Auto V"
   return "Administrator@PolishEmergencyV"
   
 if Blender:
-  return "300h@MakingFunnyShapes"
-  
-programming = [Python, Javascript, HTML, CSS, PHP, CSharp]
+  return "600h@MakingFunnyShapes"
+
+programming = [Python, Javascript, HTML, CSS, PHP, CSharp, Lua]
 for lang in programming:
   memory.learn(lang)
 
 if Life:
-  Life = False
-  return "Complete idiot and liar"
+  Life = None
+  return "Complete idiot"
 ```
