@@ -8,7 +8,7 @@
 
 ```python
 if SCP: Secret Laboratory:
-  return "ex DeveloperSysAdmin@ThemePark & TechSupport@NorthwoodStudios"
+  return ["ex DeveloperSysAdmin@ThemePark", "ex TechSupport@NorthwoodStudios"]
 
 if Grand Theft Auto V:
   PolishEmergencyV = "Vehicles, clothing, props of Polish emergency services in Grand Theft Auto V"
@@ -19,9 +19,13 @@ if Blender:
 
 programming = [Python, Javascript, HTML, CSS, PHP, CSharp, Lua]
 for lang in programming:
-  memory.learn(lang)
+  memory.append(lang)
 
 if Life:
-  Life = None
-  return "Complete idiot"
+  return Life
+
+---
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Life' is not defined
 ```
